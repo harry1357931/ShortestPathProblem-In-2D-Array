@@ -3,6 +3,11 @@ ShortestPathProblem-In-2D-Array
 Given an m x n matrix of integers, this program computes the minimal path from left to right across the matrix. 
 This path will start from anywhere in column 1 and consists of a sequence of steps terminating in column n.
 
+Two Independent Programs:
+=========================
+1) ShortestPathProblemWithMemo.cpp  -- Using Memo Array
+<br>2)ShortestPathProblemWithoutMemo.cpp -- Without using Memo Array
+
 For More Description & Example of Shortest Path Problem:
 ========================================================
 Check File: 'ShortestPathProblem_Description.pdf'
